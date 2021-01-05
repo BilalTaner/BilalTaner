@@ -9,7 +9,7 @@
   <a href="https://github.com/BilalTaner" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalTaner&show_icons=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalTaner&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
  </p>
 <br/>
 <p align="center">

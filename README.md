@@ -8,8 +8,8 @@
   <a href="https://github.com/BilalTaner" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center"> 
-  <br><img src = "https://img.shields.io/github/followers/BilalTaner?color=Green&label=Takip%C3%A7i&logo=Github%20takip%C3%A7isi&style=for-the-badge">
-<img src = "https://img.shields.io/github/stars/BilalTaner?label=Y%C4%B1ld%C4%B1z&style=for-the-badge"></br></p>
+  <br><img src = "https://img.shields.io/github/followers/BilalTaner?color=Green&label=Follower&logo=Github%20takip%C3%A7isi&style=for-the-badge">
+<img src = "https://img.shields.io/github/stars/BilalTaner?label=Star&style=for-the-badge"></br></p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalTaner&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
  </p>

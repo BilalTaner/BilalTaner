@@ -9,7 +9,7 @@
 <p align="center"> 
   <br><img src = "https://img.shields.io/github/followers/BilalTaner?color=Green&label=Follower&logo=Github%20takip%C3%A7isi&style=for-the-badge">
 <img src = "https://img.shields.io/github/stars/BilalTaner?label=Stars&style=for-the-badge"></br></p>
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalTaner&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
  </p>
  <a href="https://discord.com/users/257307300400726019" target"blank_"><img src="https://lanyard-profile-readme.vercel.app/api/257307300400726019"></a>

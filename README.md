@@ -12,8 +12,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalTaner&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
  </p>
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/257307300400726019)](https://discord.com/users/257307300400726019)
 <br/>
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=BilalTaner&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="250px" alt="stats" />
 </p>

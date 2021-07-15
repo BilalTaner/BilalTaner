@@ -11,11 +11,7 @@
 
 ## Github Stats
 
-<p align = "center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=BilalTaner&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalTaner&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true" />
-    <img src="https://github-profile-trophy.vercel.app/?username=BilalTaner&theme=radical" />
-</p>
+![GitHub metrics](https://metrics.lecoq.io/jpbberry?languages=1&gists=1&followup=1)
 
 ![visits](https://komarev.com/ghpvc/?username=BilalTaner)
 

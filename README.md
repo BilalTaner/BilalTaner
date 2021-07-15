@@ -11,7 +11,7 @@
 
 ## Github Stats
 
-![GitHub metrics](https://metrics.lecoq.io/BilalTaner?languages=1&gists=1&followup=1)
+![GitHub metrics](https://metrics.lecoq.io/bilaltaner?languages=1&gists=1&followup=1)
 
 ![visits](https://komarev.com/ghpvc/?username=BilalTaner)
 
